@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /etc/geminabox
+rackup --host 0.0.0.0 --port 9292
+
